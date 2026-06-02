@@ -21,6 +21,12 @@ from fastapi.middleware.cors import CORSMiddleware
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 
+import sys
+from pathlib import Path
+
+# Add the project root to Python path
+sys.path.insert(0, str(Path(__file__).parent))
+
 # -------------------------------
 # Import DB & Routers
 # -------------------------------
