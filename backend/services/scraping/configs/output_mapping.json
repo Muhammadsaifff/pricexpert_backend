@@ -1,0 +1,14 @@
+{
+    "product_name": "Product name",
+    "brand_name": "Brand",
+    "category": "Category",
+    "quantity": "Quantity",
+    "old_price": "Old price",
+    "discounted_price": "Discounted price",
+    "save_amount": "Save amount",
+    "store": "Store",
+    "out_of_stock": "Out of stock",
+    "product_url": "Product URL",
+    "timestamp": "Timestamp",
+    "image_url": "Image URL"
+}

@@ -1,0 +1,937 @@
+[
+    {
+        "sub_section_id": 42987,
+        "name": "Basic",
+        "menu": "Fresh"
+    },
+    {
+        "sub_section_id": 42988,
+        "name": "Fresh Fruits",
+        "menu": "Fresh"
+    },
+    {
+        "sub_section_id": 42989,
+        "name": "Fresh Vegetables",
+        "menu": "Fresh"
+    },
+    {
+        "sub_section_id": 42990,
+        "name": "Meat",
+        "menu": "Fresh"
+    },
+    {
+        "sub_section_id": 42991,
+        "name": "Poultry",
+        "menu": "Fresh"
+    },
+    {
+        "sub_section_id": 42986,
+        "name": "Eggs",
+        "menu": "Fresh"
+    },
+    {
+        "sub_section_id": 43267,
+        "name": "Bread & Buns",
+        "menu": "Bakery"
+    },
+    {
+        "sub_section_id": 43266,
+        "name": "Biscuit",
+        "menu": "Bakery"
+    },
+    {
+        "sub_section_id": 43268,
+        "name": "Cake",
+        "menu": "Bakery"
+    },
+    {
+        "sub_section_id": 43269,
+        "name": "Muffin",
+        "menu": "Bakery"
+    },
+    {
+        "sub_section_id": 43270,
+        "name": "Rusks",
+        "menu": "Bakery"
+    },
+    {
+        "sub_section_id": 43039,
+        "name": "Sugar & Gluten Free ",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 42954,
+        "name": "Wafers",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 42955,
+        "name": "Biscuits",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43176,
+        "name": "Cake Rusk",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43042,
+        "name": "Cakes",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 42952,
+        "name": "Chocolates",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43175,
+        "name": "Marshmallow",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 42953,
+        "name": "Jellies",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43040,
+        "name": "Chewing Gum",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43041,
+        "name": "Candies",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43037,
+        "name": "Popcorn",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43038,
+        "name": "Nimco",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 42956,
+        "name": "Crackers",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 42957,
+        "name": "Chips",
+        "menu": "Snacks & Confectionary"
+    },
+    {
+        "sub_section_id": 43050,
+        "name": "Malt Drinks",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 42966,
+        "name": "Energy & Soda Drinks",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 42967,
+        "name": "Soft Drinks",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 42965,
+        "name": "Juices & Nectars",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 43047,
+        "name": "Sports Drink",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 43048,
+        "name": "Powdered Malt Drinks",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 43049,
+        "name": "Nutritional Drinks",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 42968,
+        "name": "Cordials & Syrups",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 42969,
+        "name": "Instant Powdered Drinks",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 42964,
+        "name": "Water",
+        "menu": "Beverages"
+    },
+    {
+        "sub_section_id": 43054,
+        "name": "Green Tea",
+        "menu": "Tea & Coffee"
+    },
+    {
+        "sub_section_id": 42975,
+        "name": "Black Tea",
+        "menu": "Tea & Coffee"
+    },
+    {
+        "sub_section_id": 43053,
+        "name": "Powdered Coffee",
+        "menu": "Tea & Coffee"
+    },
+    {
+        "sub_section_id": 42974,
+        "name": "Instant Tea & Coffee",
+        "menu": "Tea & Coffee"
+    },
+    {
+        "sub_section_id": 42973,
+        "name": "Tea Whiteners",
+        "menu": "Tea & Coffee"
+    },
+    {
+        "sub_section_id": 42926,
+        "name": "Pulses & Grains",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42938,
+        "name": "Pasta",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42939,
+        "name": "Noodles & Spaghetti",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42940,
+        "name": "Instant Noodles",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42921,
+        "name": "Salt, Spices & Herbs",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42922,
+        "name": "Spices & Herbs",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43167,
+        "name": "Pickles",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42923,
+        "name": "Salt",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42924,
+        "name": "Recipes Mix",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43077,
+        "name": "Cereals & Oats",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43228,
+        "name": "Olive Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42934,
+        "name": "Corn & Sunflower Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42935,
+        "name": "Ghee",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42936,
+        "name": "Canola Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42937,
+        "name": "Cooking Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42925,
+        "name": "Rice",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42927,
+        "name": "Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42928,
+        "name": "Other Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43256,
+        "name": "Diet Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42943,
+        "name": "Sugar",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42929,
+        "name": "Dry Fruits",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42930,
+        "name": "Dates",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43078,
+        "name": "Vegetables",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43079,
+        "name": "Fruits",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43216,
+        "name": "Olives",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43168,
+        "name": "BBQ Sauce",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42931,
+        "name": "Dressings & Seasonings",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43073,
+        "name": "Cooking Sauces",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43169,
+        "name": "Cooking Pastes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43074,
+        "name": "Vinegar",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43075,
+        "name": "Soya Sauce",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43076,
+        "name": "Chilli Sauce",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42932,
+        "name": "Mayonnaise",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42933,
+        "name": "Ketchup",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43172,
+        "name": "Honey",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43080,
+        "name": "Chocolate Spread",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43081,
+        "name": "Jams & Marmalades",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43083,
+        "name": "Chicken Spread",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43082,
+        "name": "Traditional Dessert Mixes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42944,
+        "name": "Vermicelli",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42945,
+        "name": "Custard & Jelly Mixes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43170,
+        "name": "Tortilla & Wraps",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43251,
+        "name": "Mutton",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43252,
+        "name": "Beef",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43227,
+        "name": "Vegetable Dishes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43253,
+        "name": "Rice Dishes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43254,
+        "name": "Pulses",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43255,
+        "name": "Chicken",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43069,
+        "name": "Baking & Cooking",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43171,
+        "name": "Sweeteners",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43070,
+        "name": "Fillings & Toppings",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43071,
+        "name": "Colour & Essence",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42941,
+        "name": "Corn Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43072,
+        "name": "Bread Crumbs",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42942,
+        "name": "Baking Essentials",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43091,
+        "name": "Condensed Milk",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43198,
+        "name": "Powdered Milk",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43001,
+        "name": "Liquid Milk",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 42999,
+        "name": "Flavoured Milk",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43090,
+        "name": "Chilled Coffee",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 42997,
+        "name": "Butter & Margarine",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43230,
+        "name": "Raita",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43089,
+        "name": "Flavoured Yogurt",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 42998,
+        "name": "Plain Yogurt",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43092,
+        "name": "Cheese",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43000,
+        "name": "Cream",
+        "menu": "Dairy"
+    },
+    {
+        "sub_section_id": 43096,
+        "name": "Appetizers",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43095,
+        "name": "Chicken",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43179,
+        "name": "French Fries",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43093,
+        "name": "Vegetables",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43178,
+        "name": "Fruits",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43094,
+        "name": "Puri & Paratha",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43177,
+        "name": "Pizza Dough",
+        "menu": "Frozen"
+    },
+    {
+        "sub_section_id": 43108,
+        "name": "Bottles & Nipples",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43222,
+        "name": "Feeding Accessories",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43224,
+        "name": "Lotions, Creams & Moisturizers",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43202,
+        "name": "Oral Care",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43203,
+        "name": "Hair Care",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43204,
+        "name": "Baby Care",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43109,
+        "name": "Wipes and Swabs",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43223,
+        "name": "Bodywashes & Soaps",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43107,
+        "name": "Diapers & Pants",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43110,
+        "name": "Cereals",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43111,
+        "name": "Formula Milk",
+        "menu": "Baby World"
+    },
+    {
+        "sub_section_id": 43239,
+        "name": "Mouthwash",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43132,
+        "name": "Toothbrushes & Floss",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43024,
+        "name": "Toothpastes",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43240,
+        "name": "Oils",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43133,
+        "name": "Lotions",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43261,
+        "name": "Creams & Moisturizers",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43188,
+        "name": "Hair Combs & Brushes",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43259,
+        "name": "Hair Treatment & Care",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43260,
+        "name": "Hair Styling",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43130,
+        "name": "Hair Oils",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43131,
+        "name": "Hair Colours",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43212,
+        "name": "Conditioners",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43025,
+        "name": "Shampoos",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43127,
+        "name": "Facial Cleansers & Whitening Treatments",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43128,
+        "name": "Fairness Creams",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43237,
+        "name": "Masks & Scrubs",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43213,
+        "name": "Men's Face Washes",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43129,
+        "name": "Face Washes",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43124,
+        "name": "Wipes, Swabs & Buds",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43236,
+        "name": "Adult Diapers & Diaper Pants",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43125,
+        "name": "Anti-Bacterial Soaps",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43189,
+        "name": "Sanitizers",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43190,
+        "name": "Body Wash",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43126,
+        "name": "Hand Washes",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43026,
+        "name": "Soaps",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43214,
+        "name": "Shaving Cream",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43027,
+        "name": "Razors and Cartridges",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43192,
+        "name": "Razors & Wax Strips",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43134,
+        "name": "Hair Removing Creams",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43135,
+        "name": "Sanitary Pads",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43191,
+        "name": "Talcom Powder",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43210,
+        "name": "Antiperspirants & Roll ons",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43211,
+        "name": "Deodorants, Body Sprays & Mists",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43238,
+        "name": "Aromatics",
+        "menu": "Health & Beauty"
+    },
+    {
+        "sub_section_id": 43195,
+        "name": "Bleach",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43150,
+        "name": "Fabric Softeners",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43151,
+        "name": "Laundry Essentials",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43016,
+        "name": "Detergent",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43146,
+        "name": "Naphthalene Balls",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43147,
+        "name": "Toilet Essentials",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43148,
+        "name": "Shoe Care",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43010,
+        "name": "Kitchen Essentials",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43149,
+        "name": "Surface Cleaners",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43218,
+        "name": "Household Cleaners",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43196,
+        "name": "Cling & Paper Wrap",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43013,
+        "name": "Garbage Bags",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43014,
+        "name": "Food Bags",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43011,
+        "name": "Toilet Roll",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43152,
+        "name": "Kitchen Rolls",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43012,
+        "name": "Tissues & Napkins",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43153,
+        "name": "Refills",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43154,
+        "name": "Incense Sticks",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43017,
+        "name": "Air Fresheners",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43155,
+        "name": "Repelling Lotions",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43015,
+        "name": "Coils & Mats",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43156,
+        "name": "Insecticides",
+        "menu": "Home Care"
+    },
+    {
+        "sub_section_id": 43029,
+        "name": "Pet Food",
+        "menu": "Pet Essentials"
+    },
+    {
+        "sub_section_id": 43243,
+        "name": "Optical Care",
+        "menu": "Pharmacy"
+    },
+    {
+        "sub_section_id": 43160,
+        "name": "Husk",
+        "menu": "Pharmacy"
+    },
+    {
+        "sub_section_id": 43019,
+        "name": "Herbal Medicine",
+        "menu": "Pharmacy"
+    },
+    {
+        "sub_section_id": 43159,
+        "name": "Lozenges",
+        "menu": "Pharmacy"
+    },
+    {
+        "sub_section_id": 43265,
+        "name": "Sexual Lubricants & Creams",
+        "menu": "Pharmacy"
+    },
+    {
+        "sub_section_id": 43244,
+        "name": "Contraceptives",
+        "menu": "Pharmacy"
+    }
+]

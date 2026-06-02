@@ -1,0 +1,425 @@
+[
+    {
+        "id": "FPAK1630500",
+        "name": "Milk & Laban",
+        "url": "/c/FPAK1630500",
+        "tags": [
+            "Fresh Food",
+            "Dairy & Eggs",
+            "Milk & Laban"
+        ]
+    },
+    {
+        "id": "FPAK1630200",
+        "name": "Cheese & Labneh",
+        "url": "/c/FPAK1630200",
+        "tags": [
+            "Fresh Food",
+            "Dairy & Eggs",
+            "Cheese & Labneh"
+        ]
+    },
+    {
+        "id": "FPAK1630100",
+        "name": "Butter & Margarine",
+        "url": "/c/FPAK1630100",
+        "tags": [
+            "Fresh Food",
+            "Dairy & Eggs",
+            "Butter & Margarine"
+        ]
+    },
+    {
+        "id": "FPAK1630300",
+        "name": "Cream",
+        "url": "/c/FPAK1630300",
+        "tags": [
+            "Fresh Food",
+            "Dairy & Eggs",
+            "Cream"
+        ]
+    },
+    {
+        "id": "FPAK1630400",
+        "name": "Eggs",
+        "url": "/c/FPAK1630400",
+        "tags": [
+            "Fresh Food",
+            "Dairy & Eggs",
+            "Eggs"
+        ]
+    },
+    {
+        "id": "FPAK1630600",
+        "name": "Yoghurt",
+        "url": "/c/FPAK1630600",
+        "tags": [
+            "Fresh Food",
+            "Dairy & Eggs",
+            "Yoghurt"
+        ]
+    },
+    {
+        "id": "FPAK1660500",
+        "name": "Vegetables",
+        "url": "/c/FPAK1660500",
+        "tags": [
+            "Fresh Food",
+            "Fruit & Vegetables",
+            "Vegetables"
+        ]
+    },
+    {
+        "id": "FPAK1670300",
+        "name": "Chicken",
+        "url": "/c/FPAK1670300",
+        "tags": [
+            "Fresh Food",
+            "Meat & Poultry",
+            "Chicken"
+        ]
+    },
+    {
+        "id": "FPAK1670400",
+        "name": "Lamb",
+        "url": "/c/FPAK1670400",
+        "tags": [
+            "Fresh Food",
+            "Meat & Poultry",
+            "Lamb"
+        ]
+    },
+    {
+        "id": "FPAK1640100",
+        "name": "Fish",
+        "url": "/c/FPAK1640100",
+        "tags": [
+            "Fresh Food",
+            "Seafood",
+            "Fish"
+        ]
+    },
+    {
+        "id": "FPAK1760400",
+        "name": "Oils & Ghee",
+        "url": "/c/FPAK1760400",
+        "tags": [
+            "Food Cupboard",
+            "Cooking Ingredients",
+            "Oils & Ghee"
+        ]
+    },
+    {
+        "id": "FPAK1760100",
+        "name": "Herbs, Spices & Seasonings",
+        "url": "/c/FPAK1760100",
+        "tags": [
+            "Food Cupboard",
+            "Cooking Ingredients",
+            "Herbs, Spices & Seasonings"
+        ]
+    },
+    {
+        "id": "FPAK1760200",
+        "name": "Sauces, Dressings & Condiments",
+        "url": "/c/FPAK1760200",
+        "tags": [
+            "Food Cupboard",
+            "Cooking Ingredients",
+            "Sauces, Dressings & Condiments"
+        ]
+    },
+    {
+        "id": "FPAK1720100",
+        "name": "Rice",
+        "url": "/c/FPAK1720100",
+        "tags": [
+            "Food Cupboard",
+            "Food Staples",
+            "Rice"
+        ]
+    },
+    {
+        "id": "FPAK1720200",
+        "name": "Pasta",
+        "url": "/c/FPAK1720200",
+        "tags": [
+            "Food Cupboard",
+            "Food Staples",
+            "Pasta"
+        ]
+    },
+    {
+        "id": "FPAK1720300",
+        "name": "Noodles",
+        "url": "/c/FPAK1720300",
+        "tags": [
+            "Food Cupboard",
+            "Food Staples",
+            "Noodles"
+        ]
+    },
+    {
+        "id": "FPAK1720400",
+        "name": "Flour",
+        "url": "/c/FPAK1720400",
+        "tags": [
+            "Food Cupboard",
+            "Food Staples",
+            "Flour"
+        ]
+    },
+    {
+        "id": "FPAK1720500",
+        "name": "Sugar",
+        "url": "/c/FPAK1720500",
+        "tags": [
+            "Food Cupboard",
+            "Food Staples",
+            "Sugar"
+        ]
+    },
+    {
+        "id": "FPAK1740100",
+        "name": "Tea",
+        "url": "/c/FPAK1740100",
+        "tags": [
+            "Beverages",
+            "Coffee & Tea",
+            "Tea"
+        ]
+    },
+    {
+        "id": "FPAK1740200",
+        "name": "Coffee",
+        "url": "/c/FPAK1740200",
+        "tags": [
+            "Beverages",
+            "Coffee & Tea",
+            "Coffee"
+        ]
+    },
+    {
+        "id": "FPAK1750100",
+        "name": "Biscuits & Cookies",
+        "url": "/c/FPAK1750100",
+        "tags": [
+            "Snacks",
+            "Sweet & Savoury Snacks",
+            "Biscuits & Cookies"
+        ]
+    },
+    {
+        "id": "FPAK1750200",
+        "name": "Chocolate",
+        "url": "/c/FPAK1750200",
+        "tags": [
+            "Snacks",
+            "Sweet & Savoury Snacks",
+            "Chocolate"
+        ]
+    },
+    {
+        "id": "FPAK1750300",
+        "name": "Chips & Crisps",
+        "url": "/c/FPAK1750300",
+        "tags": [
+            "Snacks",
+            "Sweet & Savoury Snacks",
+            "Chips & Crisps"
+        ]
+    },
+    {
+        "id": "FPAK1750400",
+        "name": "Sweets & Candy",
+        "url": "/c/FPAK1750400",
+        "tags": [
+            "Snacks",
+            "Sweet & Savoury Snacks",
+            "Sweets & Candy"
+        ]
+    },
+    {
+        "id": "FPAK1780100",
+        "name": "Canned Food",
+        "url": "/c/FPAK1780100",
+        "tags": [
+            "Food Cupboard",
+            "Canned Food",
+            "Canned Food"
+        ]
+    },
+    {
+        "id": "FPAK1780200",
+        "name": "Pickles & Olives",
+        "url": "/c/FPAK1780200",
+        "tags": [
+            "Food Cupboard",
+            "Canned Food",
+            "Pickles & Olives"
+        ]
+    },
+    {
+        "id": "FPAK1800100",
+        "name": "Soft Drinks",
+        "url": "/c/FPAK1800100",
+        "tags": [
+            "Beverages",
+            "Soft Drinks"
+        ]
+    },
+    {
+        "id": "FPAK1800200",
+        "name": "Juices",
+        "url": "/c/FPAK1800200",
+        "tags": [
+            "Beverages",
+            "Juices"
+        ]
+    },
+    {
+        "id": "FPAK1800300",
+        "name": "Water",
+        "url": "/c/FPAK1800300",
+        "tags": [
+            "Beverages",
+            "Water"
+        ]
+    },
+    {
+        "id": "FPAK1820100",
+        "name": "Laundry",
+        "url": "/c/FPAK1820100",
+        "tags": [
+            "Cleaning",
+            "Laundry & Homecare",
+            "Laundry"
+        ]
+    },
+    {
+        "id": "FPAK1820200",
+        "name": "Dishwashing",
+        "url": "/c/FPAK1820200",
+        "tags": [
+            "Cleaning",
+            "Laundry & Homecare",
+            "Dishwashing"
+        ]
+    },
+    {
+        "id": "FPAK1820300",
+        "name": "Surface & Floor Cleaner",
+        "url": "/c/FPAK1820300",
+        "tags": [
+            "Cleaning",
+            "Laundry & Homecare",
+            "Surface & Floor Cleaner"
+        ]
+    },
+    {
+        "id": "FPAK1830100",
+        "name": "Toilet Paper & Tissues",
+        "url": "/c/FPAK1830100",
+        "tags": [
+            "Cleaning",
+            "Paper & Tissues",
+            "Toilet Paper & Tissues"
+        ]
+    },
+    {
+        "id": "FPAK1840100",
+        "name": "Shampoo & Conditioner",
+        "url": "/c/FPAK1840100",
+        "tags": [
+            "Personal Care",
+            "Bath & Body",
+            "Shampoo & Conditioner"
+        ]
+    },
+    {
+        "id": "FPAK1840200",
+        "name": "Skin Care",
+        "url": "/c/FPAK1840200",
+        "tags": [
+            "Personal Care",
+            "Bath & Body",
+            "Skin Care"
+        ]
+    },
+    {
+        "id": "FPAK1840300",
+        "name": "Oral Care",
+        "url": "/c/FPAK1840300",
+        "tags": [
+            "Personal Care",
+            "Bath & Body",
+            "Oral Care"
+        ]
+    },
+    {
+        "id": "FPAK1840400",
+        "name": "Bath & Body",
+        "url": "/c/FPAK1840400",
+        "tags": [
+            "Personal Care",
+            "Bath & Body",
+            "Bath & Body"
+        ]
+    },
+    {
+        "id": "FPAK1860100",
+        "name": "Diapers",
+        "url": "/c/FPAK1860100",
+        "tags": [
+            "Baby Care",
+            "Diapers"
+        ]
+    },
+    {
+        "id": "FPAK1860200",
+        "name": "Baby Food",
+        "url": "/c/FPAK1860200",
+        "tags": [
+            "Baby Care",
+            "Baby Food"
+        ]
+    },
+    {
+        "id": "FPAK1710100",
+        "name": "Frozen Vegetables",
+        "url": "/c/FPAK1710100",
+        "tags": [
+            "Frozen Food",
+            "Frozen Vegetables & Fruit",
+            "Frozen Vegetables"
+        ]
+    },
+    {
+        "id": "FPAK1710200",
+        "name": "Frozen Chicken",
+        "url": "/c/FPAK1710200",
+        "tags": [
+            "Frozen Food",
+            "Frozen Meat & Poultry",
+            "Frozen Chicken"
+        ]
+    },
+    {
+        "id": "FPAK1710300",
+        "name": "Frozen Snacks",
+        "url": "/c/FPAK1710300",
+        "tags": [
+            "Frozen Food",
+            "Frozen Snacks"
+        ]
+    },
+    {
+        "id": "FPAK1710400",
+        "name": "Ice Cream",
+        "url": "/c/FPAK1710400",
+        "tags": [
+            "Frozen Food",
+            "Ice Cream"
+        ]
+    }
+]

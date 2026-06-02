@@ -1,0 +1,277 @@
+[
+    {
+        "sub_section_id": 42926,
+        "name": "Pulses & Grains",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42938,
+        "name": "Pasta",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42939,
+        "name": "Noodles & Spaghetti",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42940,
+        "name": "Instant Noodles",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42921,
+        "name": "Salt, Spices & Herbs",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42922,
+        "name": "Spices & Herbs",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43167,
+        "name": "Pickles",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42923,
+        "name": "Salt",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42924,
+        "name": "Recipes Mix",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43077,
+        "name": "Cereals & Oats",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43228,
+        "name": "Olive Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42934,
+        "name": "Corn & Sunflower Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42935,
+        "name": "Ghee",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42936,
+        "name": "Canola Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42937,
+        "name": "Cooking Oil",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42925,
+        "name": "Rice",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42927,
+        "name": "Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42928,
+        "name": "Other Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43256,
+        "name": "Diet Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42943,
+        "name": "Sugar",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42929,
+        "name": "Dry Fruits",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42930,
+        "name": "Dates",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43078,
+        "name": "Vegetables",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43079,
+        "name": "Fruits",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43216,
+        "name": "Olives",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43168,
+        "name": "BBQ Sauce",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42931,
+        "name": "Dressings & Seasonings",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43073,
+        "name": "Cooking Sauces",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43169,
+        "name": "Cooking Pastes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43074,
+        "name": "Vinegar",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43075,
+        "name": "Soya Sauce",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43076,
+        "name": "Chilli Sauce",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42932,
+        "name": "Mayonnaise",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42933,
+        "name": "Ketchup",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43172,
+        "name": "Honey",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43080,
+        "name": "Chocolate Spread",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43081,
+        "name": "Jams & Marmalades",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43083,
+        "name": "Chicken Spread",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43082,
+        "name": "Traditional Dessert Mixes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42944,
+        "name": "Vermicelli",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42945,
+        "name": "Custard & Jelly Mixes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43170,
+        "name": "Tortilla & Wraps",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43251,
+        "name": "Mutton",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43252,
+        "name": "Beef",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43227,
+        "name": "Vegetable Dishes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43253,
+        "name": "Rice Dishes",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43254,
+        "name": "Pulses",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43255,
+        "name": "Chicken",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43069,
+        "name": "Baking & Cooking",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43171,
+        "name": "Sweeteners",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43070,
+        "name": "Fillings & Toppings",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43071,
+        "name": "Colour & Essence",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42941,
+        "name": "Corn Flour",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 43072,
+        "name": "Bread Crumbs",
+        "menu": "Edible Grocery"
+    },
+    {
+        "sub_section_id": 42942,
+        "name": "Baking Essentials",
+        "menu": "Edible Grocery"
+    }
+]

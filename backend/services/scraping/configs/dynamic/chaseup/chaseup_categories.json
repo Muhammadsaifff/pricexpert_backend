@@ -1,0 +1,498 @@
+[
+  {
+    "sub_section_id": "ramadan-hamper",
+    "name": "Ramadan Hamper",
+    "menu": "Ramadan Hampers",
+    "section": "Ramadan Hampers",
+    "parent": "Ramadan Hampers"
+  },
+  {
+    "sub_section_id": "90970",
+    "name": "Offers",
+    "menu": "Promotions",
+    "section": "Packages & Promotion",
+    "parent": "Packages & Promotion"
+  },
+  {
+    "sub_section_id": "promotion-new",
+    "name": "Promotion new",
+    "menu": "Promotions",
+    "section": "Promotion new"
+  },
+  {
+    "sub_section_id": "unstitched-men",
+    "name": "Unstitched - Men",
+    "menu": "Fashion",
+    "section": "Unstitched",
+    "parent": "Unstitched"
+  },
+  {
+    "sub_section_id": "unstitched-women",
+    "name": "Unstitched - Women",
+    "menu": "Fashion",
+    "section": "Unstitched",
+    "parent": "Unstitched"
+  },
+  {
+    "sub_section_id": "towels",
+    "name": "Towels",
+    "menu": "Home Textile",
+    "section": "Towels",
+    "parent": "Towels"
+  },
+  {
+    "sub_section_id": "bed-sheets",
+    "name": "Bed Sheets",
+    "menu": "Home Textile",
+    "section": "Bed Sheets",
+    "parent": "Bed Sheets"
+  },
+  {
+    "sub_section_id": "106518",
+    "name": "Chaseup Originals",
+    "menu": "Chase Up Originals",
+    "section": "Chase Up",
+    "parent": "Chase Up"
+  },
+  {
+    "sub_section_id": "breads-rusk-eggs-1",
+    "name": "Breads, Rusk & Eggs",
+    "menu": "Breakfast & Dairy",
+    "section": "Breakfast & Dairy",
+    "parent": "Breakfast & Dairy"
+  },
+  {
+    "sub_section_id": "cereals-cornflakes-oats-1",
+    "name": "Cereals, Cornflakes & Oats",
+    "menu": "Breakfast & Dairy",
+    "section": "Breakfast & Dairy",
+    "parent": "Breakfast & Dairy"
+  },
+  {
+    "sub_section_id": "dairy-1",
+    "name": "Dairy",
+    "menu": "Breakfast & Dairy",
+    "section": "Breakfast & Dairy",
+    "parent": "Breakfast & Dairy"
+  },
+  {
+    "sub_section_id": "jams-spreads-1",
+    "name": "Jams & Spreads",
+    "menu": "Breakfast & Dairy",
+    "section": "Breakfast & Dairy",
+    "parent": "Breakfast & Dairy"
+  },
+  {
+    "sub_section_id": "milk",
+    "name": "Milk",
+    "menu": "Breakfast & Dairy",
+    "section": "Breakfast & Dairy",
+    "parent": "Breakfast & Dairy"
+  },
+  {
+    "sub_section_id": "75304",
+    "name": "Bath & Body",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75305",
+    "name": "Deos & Perfumes",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75306",
+    "name": "Face Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75307",
+    "name": "Hair Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75308",
+    "name": "Oral Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75309",
+    "name": "Men Grooming",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75310",
+    "name": "Personal Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75311",
+    "name": "Women Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75312",
+    "name": "Hand Wash & Sanitizer",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75337",
+    "name": "Adult Diapers",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "75313",
+    "name": "Food Supplements",
+    "menu": "Herbal & Nutrition",
+    "section": "Herbal & Nutrition",
+    "parent": "Herbal & Nutrition"
+  },
+  {
+    "sub_section_id": "75314",
+    "name": "Herbal",
+    "menu": "Herbal & Nutrition",
+    "section": "Herbal & Nutrition",
+    "parent": "Herbal & Nutrition"
+  },
+  {
+    "sub_section_id": "75331",
+    "name": "Paratha & Others",
+    "menu": "Frozen",
+    "section": "Frozen",
+    "parent": "Frozen"
+  },
+  {
+    "sub_section_id": "75332",
+    "name": "Frozen Chicken",
+    "menu": "Frozen",
+    "section": "Frozen",
+    "parent": "Frozen"
+  },
+  {
+    "sub_section_id": "75333",
+    "name": "Ice Cream",
+    "menu": "Frozen",
+    "section": "Frozen",
+    "parent": "Frozen"
+  },
+  {
+    "sub_section_id": "75334",
+    "name": "Frozen Fish",
+    "menu": "Frozen",
+    "section": "Frozen",
+    "parent": "Frozen"
+  },
+  {
+    "sub_section_id": "75335",
+    "name": "Fruits & Vegetables",
+    "menu": "Frozen",
+    "section": "Frozen",
+    "parent": "Frozen"
+  },
+  {
+    "sub_section_id": "75336",
+    "name": "Frozen Beef",
+    "menu": "Frozen",
+    "section": "Frozen",
+    "parent": "Frozen"
+  },
+  {
+    "sub_section_id": "75315",
+    "name": "Dishwashers",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75316",
+    "name": "Fabric Care",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75317",
+    "name": "Home & Car Fresheners",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75318",
+    "name": "Home Accessories",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75319",
+    "name": "Home & Toilet Cleaner",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75320",
+    "name": "Laundry Detergents",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75321",
+    "name": "Mosquito & Insect Killer",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75322",
+    "name": "Shoe Care",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75323",
+    "name": "Sponge & Duster",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75324",
+    "name": "Tissues & Disposables",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75328",
+    "name": "Cells & Batteries",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75340",
+    "name": "Car Care",
+    "menu": "Laundry & Household",
+    "section": "Laundry & Household",
+    "parent": "Laundry & Household"
+  },
+  {
+    "sub_section_id": "75325",
+    "name": "Noodles & Pasta",
+    "menu": "Noodles & Ketchups",
+    "section": "Noodles & Ketchups",
+    "parent": "Noodles & Ketchups"
+  },
+  {
+    "sub_section_id": "75326",
+    "name": "Pickles & Chutneys",
+    "menu": "Noodles & Ketchups",
+    "section": "Noodles & Ketchups",
+    "parent": "Noodles & Ketchups"
+  },
+  {
+    "sub_section_id": "75327",
+    "name": "Sauces & Ketchups",
+    "menu": "Noodles & Ketchups",
+    "section": "Noodles & Ketchups",
+    "parent": "Noodles & Ketchups"
+  },
+  {
+    "sub_section_id": "75297",
+    "name": "Canned & Jar Food",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75298",
+    "name": "Atta & Other Flour",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75299",
+    "name": "Oils & Ghee",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75300",
+    "name": "Pulses",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75301",
+    "name": "Rice & Other Grains",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75302",
+    "name": "Spices & Recipes",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75303",
+    "name": "Sugar & Salt",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75330",
+    "name": "Dry Fruits & Dates",
+    "menu": "Grocery & Staples",
+    "section": "Grocery & Staples",
+    "parent": "Grocery & Staples"
+  },
+  {
+    "sub_section_id": "75277",
+    "name": "Baby Food",
+    "menu": "Baby Care",
+    "section": "Baby Care",
+    "parent": "Baby Care"
+  },
+  {
+    "sub_section_id": "75278",
+    "name": "Baby Diapers & Wipes",
+    "menu": "Baby Care",
+    "section": "Baby Care",
+    "parent": "Baby Care"
+  },
+  {
+    "sub_section_id": "75279",
+    "name": "Baby Skin & Hair Care",
+    "menu": "Baby Care",
+    "section": "Baby Care",
+    "parent": "Baby Care"
+  },
+  {
+    "sub_section_id": "75280",
+    "name": "Desserts",
+    "menu": "Baking & Cooking",
+    "section": "Baking & Cooking",
+    "parent": "Baking & Cooking"
+  },
+  {
+    "sub_section_id": "75281",
+    "name": "Home Baking",
+    "menu": "Baking & Cooking",
+    "section": "Baking & Cooking",
+    "parent": "Baking & Cooking"
+  },
+  {
+    "sub_section_id": "75282",
+    "name": "Health & Energy Drinks",
+    "menu": "Beverages",
+    "section": "Beverages",
+    "parent": "Beverages"
+  },
+  {
+    "sub_section_id": "75283",
+    "name": "Juices & Concentrates",
+    "menu": "Beverages",
+    "section": "Beverages",
+    "parent": "Beverages"
+  },
+  {
+    "sub_section_id": "75284",
+    "name": "Mineral Water",
+    "menu": "Beverages",
+    "section": "Beverages",
+    "parent": "Beverages"
+  },
+  {
+    "sub_section_id": "75285",
+    "name": "Soft Drink",
+    "menu": "Beverages",
+    "section": "Beverages",
+    "parent": "Beverages"
+  },
+  {
+    "sub_section_id": "75286",
+    "name": "Tea & Coffee",
+    "menu": "Beverages",
+    "section": "Beverages",
+    "parent": "Beverages"
+  },
+  {
+    "sub_section_id": "75287",
+    "name": "Hot Beverages",
+    "menu": "Beverages",
+    "section": "Beverages",
+    "parent": "Beverages"
+  },
+  {
+    "sub_section_id": "75288",
+    "name": "Biscuits & Cookies",
+    "menu": "Biscuits, Snacks & Chocolates",
+    "section": "Biscuits, Snacks & Chocolates",
+    "parent": "Biscuits, Snacks & Chocolates"
+  },
+  {
+    "sub_section_id": "75289",
+    "name": "Cake & Wafers",
+    "menu": "Biscuits, Snacks & Chocolates",
+    "section": "Biscuits, Snacks & Chocolates",
+    "parent": "Biscuits, Snacks & Chocolates"
+  },
+  {
+    "sub_section_id": "75290",
+    "name": "Namkeen & Snacks",
+    "menu": "Biscuits, Snacks & Chocolates",
+    "section": "Biscuits, Snacks & Chocolates",
+    "parent": "Biscuits, Snacks & Chocolates"
+  },
+  {
+    "sub_section_id": "75291",
+    "name": "Chocolates & Candies",
+    "menu": "Biscuits, Snacks & Chocolates",
+    "section": "Biscuits, Snacks & Chocolates",
+    "parent": "Biscuits, Snacks & Chocolates"
+  },
+  {
+    "sub_section_id": "75292",
+    "name": "Jelly & Marshmallow",
+    "menu": "Biscuits, Snacks & Chocolates",
+    "section": "Biscuits, Snacks & Chocolates",
+    "parent": "Biscuits, Snacks & Chocolates"
+  },
+  {
+    "sub_section_id": "75339",
+    "name": "Mouth Freshner & Supari",
+    "menu": "Biscuits, Snacks & Chocolates",
+    "section": "Biscuits, Snacks & Chocolates",
+    "parent": "Biscuits, Snacks & Chocolates"
+  }
+]

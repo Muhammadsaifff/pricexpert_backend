@@ -1,0 +1,793 @@
+[
+  {
+    "sub_section_id": "rashan-hampers-2026-1",
+    "name": "RASHAN HAMPERS 2026",
+    "menu": "RASHAN HAMPERS 2026",
+    "section": "RASHAN HAMPERS 2026",
+    "parent": "RASHAN HAMPERS 2026"
+  },
+  {
+    "sub_section_id": "84382",
+    "name": "WALL'S",
+    "menu": "WALL'S",
+    "section": "WALL'S",
+    "parent": "WALL'S"
+  },
+  {
+    "sub_section_id": "45272",
+    "name": "Food Colours",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45254",
+    "name": "Almarwah Dry Fruits",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45255",
+    "name": "Ready to Eat",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45256",
+    "name": "Rice",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45257",
+    "name": "Breakfast",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45258",
+    "name": "Milk & Dairy Drinks",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45259",
+    "name": "Cooking Oil & Banaspati",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45260",
+    "name": "Tea Whiteners",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45261",
+    "name": "Sugar & Salt",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45271",
+    "name": "Canned Foods",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45253",
+    "name": "Spices & Recepies",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45273",
+    "name": "Jam/jelly/marmaleds",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45274",
+    "name": "Olives",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45275",
+    "name": "Bread Crumbs",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45279",
+    "name": "Almarwah Others",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45280",
+    "name": "Other",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45285",
+    "name": "Dry Fruits & Dates",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "58807",
+    "name": "Fresh Meat",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "91736",
+    "name": "LIPTON TEA RANGE",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45241",
+    "name": "Cooking & Baking",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45211",
+    "name": "Butter & Cheese",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45212",
+    "name": "Sauces & Pickles",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45224",
+    "name": "Mayonnaise & Spreads",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45225",
+    "name": "Noodles & Pasta",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45226",
+    "name": "Squash & Syrups",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45227",
+    "name": "Honey",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45228",
+    "name": "Flour & Meals",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45239",
+    "name": "Olive Oil",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45240",
+    "name": "Shoe Care",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45210",
+    "name": "Tea & Coffee",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45242",
+    "name": "Almarwah Flour",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45243",
+    "name": "Desserts Mix",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45244",
+    "name": "Pet Care",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45248",
+    "name": "Almarwah Sugar",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45249",
+    "name": "Cereals",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45250",
+    "name": "Almarwah Rice",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45251",
+    "name": "Almarwah Pulses & Grains",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45252",
+    "name": "Almarwah Spices",
+    "menu": "Grocery Products",
+    "section": "Grocery Products",
+    "parent": "Grocery Products"
+  },
+  {
+    "sub_section_id": "45195",
+    "name": "Pharmacy Ear Drops",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45292",
+    "name": "Pharmacy Organic",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45246",
+    "name": "Pharmacy Powder",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45233",
+    "name": "Pharmacy Machines",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45217",
+    "name": "Surgical Products",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45216",
+    "name": "Pharmacy Herbal",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45200",
+    "name": "Nutritional Foods & Drinks",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45199",
+    "name": "Pharmacy Inhalers & Nasal Spray",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45198",
+    "name": "Pharmacy Antiseptics",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45197",
+    "name": "Pharmacy Oral Care",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45196",
+    "name": "Pharmacy Balm & Oil",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45185",
+    "name": "Pharmacy Tablet",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45194",
+    "name": "Pharmacy Hair Care",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45193",
+    "name": "Pharmacy Nasal Drops",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45192",
+    "name": "Pharmacy Eye Drops & Ointment",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45191",
+    "name": "Pharmacy Capsule",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45190",
+    "name": "Pharmacy Sachets",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45189",
+    "name": "Pharmacy Syrup & Liquids",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45188",
+    "name": "Pharmacy Oral Drops",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45187",
+    "name": "Pharmacy Skincare",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45186",
+    "name": "Pharmacy Injection & Drips",
+    "menu": "Pharmacy & Nutritions",
+    "section": "Pharmacy & Nutritions",
+    "parent": "Pharmacy & Nutritions"
+  },
+  {
+    "sub_section_id": "45201",
+    "name": "Household Cleaners",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45202",
+    "name": "Repellents & Insecticides",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45203",
+    "name": "Laundry",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45218",
+    "name": "Stationary",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45264",
+    "name": "Tissue & Toilet Roll",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45265",
+    "name": "Car Accesories",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45266",
+    "name": "Air Freshner",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45277",
+    "name": "Engine Oil",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "130704",
+    "name": "Surf Excel Range",
+    "menu": "Laundry & Household Needs",
+    "section": "Laundry & Household Needs",
+    "parent": "Laundry & Household Needs"
+  },
+  {
+    "sub_section_id": "45229",
+    "name": "Drinks & Beverages",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45230",
+    "name": "Snacks & Nimko",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "90394",
+    "name": "ICE CREAM",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45231",
+    "name": "Drinking Water",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45236",
+    "name": "Juices",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45237",
+    "name": "Biscuits & Cakes",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45238",
+    "name": "Chocolate & Sweets",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45278",
+    "name": "Instant Drinks",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45283",
+    "name": "Pop Corns",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45293",
+    "name": "Khalid Sweets",
+    "menu": "Sweets & Confectionary",
+    "section": "Sweets & Confectionary",
+    "parent": "Sweets & Confectionary"
+  },
+  {
+    "sub_section_id": "45220",
+    "name": "Sexual Wellness",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45208",
+    "name": "Body Soaps",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45205",
+    "name": "Personal Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45221",
+    "name": "Hand & Body Wash",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "92737",
+    "name": "Cosmetic",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45223",
+    "name": "Shaving Products",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "92664",
+    "name": "Branded Perfumes",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45284",
+    "name": "Mobile Cards",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45281",
+    "name": "Cigarettes",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45263",
+    "name": "Sanitary Napkins",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45262",
+    "name": "Deodorants",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45245",
+    "name": "Body Spray",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45204",
+    "name": "Hair Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45219",
+    "name": "Oral Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45209",
+    "name": "Isphaghol",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45207",
+    "name": "Skin Care",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "128981",
+    "name": "Reckitt Benckiser",
+    "menu": "Health & Beauty",
+    "section": "Health & Beauty",
+    "parent": "Health & Beauty"
+  },
+  {
+    "sub_section_id": "45213",
+    "name": "Baby Products",
+    "menu": "Infants & Baby Care",
+    "section": "Infants & Baby Care",
+    "parent": "Infants & Baby Care"
+  },
+  {
+    "sub_section_id": "45214",
+    "name": "Baby Milks",
+    "menu": "Infants & Baby Care",
+    "section": "Infants & Baby Care",
+    "parent": "Infants & Baby Care"
+  },
+  {
+    "sub_section_id": "45267",
+    "name": "Diapers & wipes",
+    "menu": "Infants & Baby Care",
+    "section": "Infants & Baby Care",
+    "parent": "Infants & Baby Care"
+  },
+  {
+    "sub_section_id": "45268",
+    "name": "Baby Foods",
+    "menu": "Infants & Baby Care",
+    "section": "Infants & Baby Care",
+    "parent": "Infants & Baby Care"
+  },
+  {
+    "sub_section_id": "45247",
+    "name": "Food Storage",
+    "menu": "Kitchenware & Home Decor",
+    "section": "Kitchenware & Home Decor",
+    "parent": "Kitchenware & Home Decor"
+  },
+  {
+    "sub_section_id": "45276",
+    "name": "Candles",
+    "menu": "Kitchenware & Home Decor",
+    "section": "Kitchenware & Home Decor",
+    "parent": "Kitchenware & Home Decor"
+  },
+  {
+    "sub_section_id": "45286",
+    "name": "Incense Sticks/ Fire Agents",
+    "menu": "Kitchenware & Home Decor",
+    "section": "Kitchenware & Home Decor",
+    "parent": "Kitchenware & Home Decor"
+  },
+  {
+    "sub_section_id": "45287",
+    "name": "Am Bedsheets",
+    "menu": "Kitchenware & Home Decor",
+    "section": "Kitchenware & Home Decor",
+    "parent": "Kitchenware & Home Decor"
+  },
+  {
+    "sub_section_id": "45288",
+    "name": "Garbage Bags",
+    "menu": "Kitchenware & Home Decor",
+    "section": "Kitchenware & Home Decor",
+    "parent": "Kitchenware & Home Decor"
+  },
+  {
+    "sub_section_id": "45232",
+    "name": "Home Appliances",
+    "menu": "Electronic & Home Appliances",
+    "section": "Electronic & Home Appliances",
+    "parent": "Electronic & Home Appliances"
+  },
+  {
+    "sub_section_id": "45234",
+    "name": "Straighteners & Dryers",
+    "menu": "Electronic & Home Appliances",
+    "section": "Electronic & Home Appliances",
+    "parent": "Electronic & Home Appliances"
+  },
+  {
+    "sub_section_id": "45269",
+    "name": "Kitchen Appliances",
+    "menu": "Electronic & Home Appliances",
+    "section": "Electronic & Home Appliances",
+    "parent": "Electronic & Home Appliances"
+  },
+  {
+    "sub_section_id": "71128",
+    "name": "Womens Fashion",
+    "menu": "Women's Fashion",
+    "section": "Undergarments",
+    "parent": "Undergarments"
+  },
+  {
+    "sub_section_id": "82195",
+    "name": "Luggage Bags",
+    "menu": "Luggage Bags",
+    "section": "Luggage Bags",
+    "parent": "Luggage Bags"
+  },
+  {
+    "sub_section_id": "89955",
+    "name": "Grilling & Barbecue",
+    "menu": "Grilling & Barbecue",
+    "section": "Grilling & Barbecue",
+    "parent": "Grilling & Barbecue"
+  },
+  {
+    "sub_section_id": "90040",
+    "name": "Computer & Mobile Accessories",
+    "menu": "Computer & Mobile Accessories",
+    "section": "Computer & Mobile Accessories",
+    "parent": "Computer & Mobile Accessories"
+  }
+]
