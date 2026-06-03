@@ -27,9 +27,10 @@ firebase-admin==6.2.0
 
 tqdm==4.67.1
 
-# AI/ML Dependencies
-torch==2.5.1
-transformers==4.46.3
+# AI/ML Dependencies - Fixed for Python 3.13
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.12.0
+transformers==4.52.1
 
 # testing (optional)
 pytest==7.4.3
