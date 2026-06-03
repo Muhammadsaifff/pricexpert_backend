@@ -2,7 +2,7 @@ fastapi==0.127.1
 uvicorn==0.40.0
 
 sqlalchemy==2.0.45
-psycopg2-binary==2.9.9
+psycopg2-binary>=2.9.12
 
 python-dotenv==1.0.0
 python-multipart==0.0.6
@@ -27,12 +27,16 @@ firebase-admin==6.2.0
 
 tqdm==4.67.1
 
-# optional AI (COMMENT OUT FOR RENDER FIRST)
-# torch
-# transformers
+# AI/ML Dependencies
+torch==2.5.1
+transformers==4.46.3
 
 # testing (optional)
 pytest==7.4.3
 pytest-asyncio==0.23.2
 
 gunicorn==21.2.0
+
+# Additional for Render compatibility
+numpy>=1.26.0
+aiohttp>=3.10.0
